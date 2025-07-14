@@ -31,6 +31,35 @@ By integrating the Google Maps API, SevaSangh provides a real-time, visual map o
 
 In emergencies, SevaSangh delivers instant alerts directly to users' phones, keeping citizens informed about road blockades, water, or electricity-related issues. SevaSangh isn't just a platform; it's a game-changer, transforming the dynamics between citizens and their government. Join us in revolutionizing public services, where your voice matters, and SevaSangh is the conduit for change.
 
-## Link to Project Video
+## Project Images
 
-[Watch SevaSangh Project Video](https://www.youtube.com/watch?v=6_qqUL3IH7A&ab_channel=NamanArora)
+
+<img width="1920" height="892" alt="Screenshot (2973)" src="https://github.com/user-attachments/assets/6043c97d-ce46-49b2-b02d-bfb4cf920d85" />
+
+<img width="1920" height="898" alt="Screenshot (2974)" src="https://github.com/user-attachments/assets/11e6d17a-0604-46c0-911a-2e9e3604d50d" />
+
+<img width="1920" height="893" alt="Screenshot (2975)" src="https://github.com/user-attachments/assets/65bb44fb-5593-4428-be9a-05681a2eb923" />
+
+<img width="1920" height="893" alt="Screenshot (2977)" src="https://github.com/user-attachments/assets/8faa76ae-c897-4153-8197-ab3e4288fc3d" />
+
+<img width="1920" height="890" alt="Screenshot (2980)" src="https://github.com/user-attachments/assets/98801c87-4311-4292-bcf8-574ffb4d4d65" />
+
+<img width="1916" height="898" alt="Screenshot (2981)" src="https://github.com/user-attachments/assets/192be8d6-a890-47b0-94f6-dc3dabd8da97" />
+
+<img width="1920" height="898" alt="Screenshot (2984)" src="https://github.com/user-attachments/assets/d683b348-40cf-44b9-8dee-c8af34cf9af1" />
+
+<img width="1920" height="901" alt="Screenshot (2985)" src="https://github.com/user-attachments/assets/855a7a84-bdcf-4625-84d1-b717e01193a2" />
+
+<img width="1920" height="903" alt="Screenshot (2986)" src="https://github.com/user-attachments/assets/09586739-3b09-4fb2-b8f8-17fda3e51061" />
+
+<img width="1920" height="889" alt="Screenshot (2987)" src="https://github.com/user-attachments/assets/9a9de829-9bd4-4450-8ceb-4e71573708c8" />
+
+<img width="1920" height="894" alt="Screenshot (2988)" src="https://github.com/user-attachments/assets/9fc0a5df-2205-49c5-9e3a-72dbdb5764f3" />
+
+
+
+
+
+
+
+
