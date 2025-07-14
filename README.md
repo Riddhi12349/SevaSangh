@@ -5,13 +5,11 @@ SevaSangh is a platform aimed at streamlining and enhancing civic engagement bet
 ## How to Run
 
 ### Frontend
-
 1. Navigate to the frontend directory: `cd frontend/`
 2. Install dependencies: `npm install`
 3. Run the development server: `npm run dev`
 
 ### Backend
-
 1. Navigate to the backend directory: `cd Backend/`
 2. Set up a virtual environment: `python -m venv venv`
 3. Activate the virtual environment:
@@ -23,7 +21,6 @@ SevaSangh is a platform aimed at streamlining and enhancing civic engagement bet
 7. Run the Django development server: `python manage.py runserver 8001`
 
 #### Creating a Superuser
-
 - To create a superuser for accessing the Django admin interface, run: `python manage.py createsuperuser` and follow the prompts.
 
 ## Description
@@ -33,3 +30,7 @@ In a world marked by communication gaps between citizens and government, SevaSan
 By integrating the Google Maps API, SevaSangh provides a real-time, visual map of open issues, promoting transparency. Government officials actively engage, updating the status of each problem and ensuring accountability. With a comprehensive issue tracking system, users can monitor the progress of their reported problems—from being open, under review, to resolved—complete with a timeline for enhanced visibility into the resolution process.
 
 In emergencies, SevaSangh delivers instant alerts directly to users' phones, keeping citizens informed about road blockades, water, or electricity-related issues. SevaSangh isn't just a platform; it's a game-changer, transforming the dynamics between citizens and their government. Join us in revolutionizing public services, where your voice matters, and SevaSangh is the conduit for change.
+
+## Link to Project Video
+
+[Watch SevaSangh Project Video](https://www.youtube.com/watch?v=6_qqUL3IH7A&ab_channel=NamanArora)
